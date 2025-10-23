@@ -31,6 +31,10 @@ Displays a full-screen digital clock with:
 > 💡 On macOS, it's recommended to use Python installed via [Homebrew](https://brew.sh) to avoid issues with deprecated system Tk.
 
 ---
+## 🖼️ Preview
+
+![Digital Clock Screenshot](/Users/deepanshuyadav/python 2/Screenshot 2025-10-23 at 4.28.47 PM.png)
+
 
 ## 📦 Installation
 
