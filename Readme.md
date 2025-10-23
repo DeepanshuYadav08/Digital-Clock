@@ -33,7 +33,7 @@ Displays a full-screen digital clock with:
 ---
 ## 🖼️ Preview
 
-![Digital Clock Screenshot](/Users/deepanshuyadav/python 2/Screenshot 2025-10-23 at 4.28.47 PM.png)
+![Digital Clock Screenshot](/Screenshot%202025-10-23%20at%204.28.47 PM.png)
 
 
 ## 📦 Installation
